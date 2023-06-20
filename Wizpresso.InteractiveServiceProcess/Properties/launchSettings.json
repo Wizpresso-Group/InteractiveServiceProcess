@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InteractiveProcess": {
+      "commandName": "Project",
+      "commandLineArgs": "--app \"test\" --cmdline \"abcdefg\""
+    }
+  }
+}
